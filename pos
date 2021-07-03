@@ -1,0 +1,5 @@
+ in react good while learning I become stronger
+ in react good
+
+npm install @babel/core @babel/cli @babel/preset-env @babel/preset-react
+npm i webpack webpack-cli webpack-dev-server style-loader css-loader babel-loader
