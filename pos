@@ -3,3 +3,5 @@
 
 npm install @babel/core @babel/cli @babel/preset-env @babel/preset-react
 npm i webpack webpack-cli webpack-dev-server style-loader css-loader babel-loader
+
+ npx webpack-dev-server --mode development
